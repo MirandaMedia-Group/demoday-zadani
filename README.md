@@ -39,7 +39,7 @@ Naklonuj si tento repozitář k sobě do PC. V repozitáři máš připravené u
 
 ## Zpracování
 
-Na zpracování zadání máš primárně jeden den, který jsi osobně u nás v Mirandě. Pokud vše stihneš, opět ti to přinese spoustu plusových bodů do hodnocení. Pokud to nestihneš, ale i přesto budeš mít chuť celé zadání dokončit, určitě se nějak domluvíme a můžeš zadání dokončit doma a poté zaslat, nikdo ti hlavu neutrhne.
+Na zpracování zadání máš primárně jeden den, který budeš trávit osobně u nás v Mirandě. Pokud vše stihneš, opět ti to přinese spoustu plusových bodů do hodnocení. Pokud to nestihneš, ale i přesto budeš mít chuť celé zadání dokončit, určitě se nějak domluvíme a můžeš zadání dokončit doma a poté zaslat, nikdo ti hlavu neutrhne.
 
 Buď důsledný. Prioritní je vzhledová stránka. Nedovol, aby se ti při jakémkoliv rozlišení překrývaly elementy nebo třeba "utíkaly" ze stránky. Preciznost a pixel perfect design je pro nás alfa-omega.
 
